@@ -1,7 +1,8 @@
 {
     "global": {
         "navbar": {
-            "home": "Home Arr"
+            "home": "Home Arr",
+            "verify": "Verrify"
         }
     }
 }
